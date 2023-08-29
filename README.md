@@ -4,7 +4,7 @@ Para la parte practica crea un repositorio de git y una publica, para adjuntar c
 # SERIE I: 
 Responda  las preguntas del siguiente enlace: [cuestionario](https://forms.gle/iCKe9CS6TrEWW9Lb8)
 
-# SERIE II: Escoja uno de los ejercicios y desarrolle la solucion del mismo. 
+# SERIE II: Desarrolle el siguiente ejercicios en Lenguaje JS
 1. 
     👩‍💻 estás trabajando en un sistema operativo para ser usado en el taller de Santa Claus 🎅.
 
@@ -30,7 +30,7 @@ Responda  las preguntas del siguiente enlace: [cuestionario](https://forms.gle/i
 Responda  las preguntas del siguiente enlace: [cuestionario](https://forms.gle/24iYuzbbbvNkx3kY6)
 
 
-# SERIE: IV 
+# SERIE: IV  Desarrolle el siguiente ejercicio en lenguaje de python.
  Para mejorar la productividad de la tienda en la que trabajamos, vamos a crear una pequeña máquina que calcula el mínimo número de monedas que debemos usar para dar el cambio de una compra en metálico.
 
     Las monedas para cambio que puedes usar son estas:
