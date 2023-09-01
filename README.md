@@ -1,5 +1,6 @@
 ### Instrucciones Generales: 
-Para la parte practica crea un repositorio de git y una publica, para adjuntar capturas de los ejercicios realizados. 
+Realizar los cuestionarios y ejercicios que a continuacion se presentan. 
+Para la parte practica crea un repositorio publico, para adjuntar el codigo fuente y capturas de los ejercicios. 
 
 # SERIE I: 
 Responda  las preguntas del siguiente enlace: [cuestionario](https://forms.gle/iCKe9CS6TrEWW9Lb8)
